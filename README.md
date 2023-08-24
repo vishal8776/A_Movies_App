@@ -16,7 +16,7 @@ React | SCSS
 1. `Fork` the repository  - Creates a replica of repository to your local environment.
 2. Clone the repository - Downloads all repo files to your machine, using
   ```git
-  git clone https://github.com/YOUR-USERNAME/Movix
+  git clone https://github.com/vishal8776/MoviX
   ``` 
 3. Set working directory to the root directory of the project.
   ```sh
